@@ -15,7 +15,7 @@ const Join = () => {
     <div className="join-page">
       <div className="join-card">
         <h1>Live Streaming</h1>
-        <p>Enter Room ID to join</p>
+        <p>Enter Your Name to join</p>
 
         <input
           type="text"
